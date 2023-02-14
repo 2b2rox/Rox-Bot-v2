@@ -6962,7 +6962,7 @@ requestt(hahahe, function (error, response, body) {
 	console.log(body);
 });
 break
-case 'tes': case 'test': case 'alive': case 'bot': case 'robot': case 'zimbot': case 'drips':{
+case 'tes': case 'test': case 'alive': case 'bot': case 'robot': case 'roxbot': case 'drips':{
 ram9000 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 timestampe = speed();
 latensie = speed() - timestampe
@@ -7091,7 +7091,7 @@ case 'listmenu':
 ┊ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${Object.keys(global.db.users).length}
 └───────────●
 `,
-  footer: `ZIM BOT INC`,
+  footer: `ROX BOT`,
   title: `*LIST MENU*`,
   jpegThumbnail: buffer,
   buttonText: "CLICK HERE",
@@ -7187,20 +7187,20 @@ case 'setmenu': {
  └───────────●
         `,
          buttonText: "SET MENU",
-         footerText: "ZIM BOT INC 4",
+         footerText: "Rox Bot v2",
          listType: "SINGLE_SELECT",
          sections: [{
-       "title": "ZIM BOT INC",
+       "title": "Rox Bot v2",
        "rows": [
        {
-       "title": "TEMPLATE ZIM-BOT",
+       "title": "TEMPLATE Rox - bot",
        
        "rowId": `${prefix}setmenu templateZimbot`
        }
        ]
        },
        {
-       "title": "ZIM BOT V4",
+       "title": "Rox Bot v2",
        "rows": [
        {
        "title": "TEMPLATE IMAGE",
@@ -7753,12 +7753,12 @@ anu = `
     let btn = [{
         urlButton: {
             displayText: 'SUBSCRIBE',
-            url: 'https://www.youtube.com/c/DRIPSOFC'
+            url: 'https://www.youtube.com/@MusicNooo'
         }
     }, {
         urlButton: {
             displayText: 'GITHUB',
-            url: 'https://github.com/zim-bot/zimbot-v4/fork'
+            url: 'https://github.com/2b2rox/zimbot-v4'
         }
     }, {
         quickReplyButton: {
